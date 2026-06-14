@@ -1,0 +1,19 @@
+{
+  "gitlab": {
+    "host": "https://gitlab.com",
+    "namespace_id": "需填",
+    "model": "claude_opus_4_8",
+    "cookies": {
+      "_gitlab_session": "需填",
+      "remember_user_token": "需填"
+    },
+    "user_agent": "Mozilla/5.0 (Linux; Android 15; 2206122SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.120 Mobile Safari/537.36"
+  },
+  "server": {
+    "host": "0.0.0.0",
+    "port": 8000,
+    "api_keys": [
+      "sk-licconb"
+    ]
+  }
+}
