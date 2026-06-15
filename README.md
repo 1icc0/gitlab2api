@@ -69,7 +69,7 @@ pip install httpx websockets fastapi "uvicorn[standard]"
 curl -s "https://gitlab.com/api/v4/namespaces?search=你的用户名" \
   -H "Cookie: _gitlab_session=..." | python3 -m json.tool
 ```
-响应中的id字段就是
+响应中的有两个id字段，第二个就是
 
 ### 4. 编辑 config.json
 
